@@ -1,0 +1,23 @@
+[33mcommit cadf2b385ec7c89ef2f96818dcc55073f678457c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfix[m[33m)[m
+Author: Gabriel <lambogliagabriel0@gmail.com>
+Date:   Thu Jun 18 13:00:15 2026 +0200
+
+    commit che aggiunge file01.txt modificato in fix
+
+[33mcommit d46ee90c296cc094f66d2d10696535d34f739256[m[33m ([m[1;32mmain[m[33m)[m
+Author: Gabriel <lambogliagabriel0@gmail.com>
+Date:   Tue Jun 16 00:15:25 2026 +0200
+
+    terzo commit
+
+[33mcommit 20e1916b2fe93404d840a051a5956ccf226c6a15[m
+Author: Gabriel <lambogliagabriel0@gmail.com>
+Date:   Thu Jun 11 00:23:18 2026 +0200
+
+    cia sono il secondo commit che aggiunge il file 3
+
+[33mcommit 6cc2af4861c71314e8775615ed98c289835e83f9[m
+Author: Gabriel <lambogliagabriel0@gmail.com>
+Date:   Thu Jun 11 00:15:34 2026 +0200
+
+    primo commit
